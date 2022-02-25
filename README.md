@@ -5,6 +5,7 @@
 - [x] [Coin Paprika API](coinpaprika.com)
 - [x] Clean Architecture
 - [x] Use Cases
+- [x] MVVM 
 - [x] [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?authuser=1)
 - [x] [Jetpack Compose](https://developer.android.com/jetpack/compose?gclid=Cj0KCQiAmeKQBhDvARIsAHJ7mF4A7I7vCCM-WyihxGfkKkcZXWycULgl7qUF826jH6a7xd6rZazKUjIaAl_qEALw_wcB&gclsrc=aw.ds)
 - [x] [Retrofit](https://square.github.io/retrofit/)
