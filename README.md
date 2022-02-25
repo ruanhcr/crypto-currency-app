@@ -1,6 +1,6 @@
 # Crypo Currency App
 <br>App que mostra a cotação atual das principais cryptomoedas do mercado, consumindo a Coin Paprika API, onde são feitas requisições
-<br>do tipo [GET COINS](https://api.coinpaprika.com/v1/coins) para exibir a lista de cryptomoedas em ordem rakeada e requisições do tipo [GET COIN](https://api.coinpaprika.com/v1/coins/btc-bitcoin) (exemplo da rota do bicoin),
+<br>do tipo [GET COINS](https://api.coinpaprika.com/v1/coins) para exibir a lista de cryptomoedas em ordem conforme o ranking de valor e requisições do tipo [GET COIN](https://api.coinpaprika.com/v1/coins/btc-bitcoin) (exemplo da rota do bicoin),
 <br>para se exibir os detalhes de cada cryptomoeda.
 # Development Roadmap
 - [x] [Kotlin](https://kotlinlang.org)
