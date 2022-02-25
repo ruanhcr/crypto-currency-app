@@ -1,4 +1,4 @@
-package com.plcoding.cryptocurrencyappyt
+package com.plcoding.cryptocurrencyapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
