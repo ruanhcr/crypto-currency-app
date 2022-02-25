@@ -1,5 +1,5 @@
 # Crypto Currency App
-<br>App que exibe a cotação atual das principais cryptomoedas do mercado, consumindo a Coin Paprika API, onde são feitas requisições do tipo [GET COINS](https://api.coinpaprika.com/v1/coins) para exibir a lista de cryptomoedas em ordem conforme o ranking de valor e requisições do tipo [GET COIN](https://api.coinpaprika.com/v1/coins/btc-bitcoin) (exemplo da rota do bitcoin), para se exibir os detalhes de cada cryptomoeda.
+App que exibe a cotação atual das principais cryptomoedas do mercado, consumindo a Coin Paprika API, onde são feitas requisições do tipo [GET COINS](https://api.coinpaprika.com/v1/coins) para exibir a lista de cryptomoedas em ordem conforme o ranking de valor e requisições do tipo [GET COIN](https://api.coinpaprika.com/v1/coins/btc-bitcoin) (exemplo da rota do bitcoin), para se exibir os detalhes de cada cryptomoeda.
 
 # Development Roadmap
 
