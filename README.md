@@ -1,6 +1,5 @@
 # Crypto Currency App
-<br>App que exibe a cotação atual das principais cryptomoedas do mercado, consumindo a Coin Paprika API, onde são feitas requisições
-<br>do tipo [GET COINS](https://api.coinpaprika.com/v1/coins) para exibir a lista de cryptomoedas em ordem conforme o ranking de valor e requisições do tipo [GET COIN](https://api.coinpaprika.com/v1/coins/btc-bitcoin) (exemplo da rota do bicoin), para se exibir os detalhes de cada cryptomoeda.
+<br>App que exibe a cotação atual das principais cryptomoedas do mercado, consumindo a Coin Paprika API, onde são feitas requisições do tipo [GET COINS](https://api.coinpaprika.com/v1/coins) para exibir a lista de cryptomoedas em ordem conforme o ranking de valor e requisições do tipo [GET COIN](https://api.coinpaprika.com/v1/coins/btc-bitcoin) (exemplo da rota do bicoin), para se exibir os detalhes de cada cryptomoeda.
 # Development Roadmap
 - [x] [Kotlin](https://kotlinlang.org)
 - [x] [Coin Paprika API](coinpaprika.com)
@@ -8,7 +7,6 @@
 - [x] Use Cases
 - [x] [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?authuser=1)
 - [x] [Jetpack Compose](https://developer.android.com/jetpack/compose?gclid=Cj0KCQiAmeKQBhDvARIsAHJ7mF4A7I7vCCM-WyihxGfkKkcZXWycULgl7qUF826jH6a7xd6rZazKUjIaAl_qEALw_wcB&gclsrc=aw.ds)
-- [x] [Compose State]  
 - [x] [Retrofit](https://square.github.io/retrofit/)
 - [x] [Coroutines](https://developer.android.com/topic/libraries/architecture/coroutines)
 - [x] [Dagger - Hilt](https://developer.android.com/training/dependency-injection/hilt-android)
