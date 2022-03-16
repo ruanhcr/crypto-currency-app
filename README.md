@@ -22,3 +22,9 @@ App que exibe a cotação atual das principais cryptomoedas do mercado, consumin
 
 # Screenshot
 ![exemplo](https://media0.giphy.com/media/iA4bTi1j6hQIOPc3fa/giphy.gif?cid=790b76113a30bcc72b5971a850d6759af37f7a8b37dc500a&rid=giphy.gif&ct=g)
+
+# TO DO
+Este projeto está em andamento, sendo necessário adicionar:
+- [x] Testes unitários
+- [x] Testes de Instrumentação
+- [x] CI/CD
